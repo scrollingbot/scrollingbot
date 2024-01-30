@@ -44,3 +44,9 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: *scrollingbot@hotmail.com*  
+
+
+
+### Account and Associated Data Deletion Request
+To request from *Soundhype* that your account data is deleted, you can send an email to *scrollingbot@hotmail.com* from the email used to create the account in the *Modular* app. Please include username, email and reason of the request. Our team will proceed to fullfill removal within 60 days.
+
